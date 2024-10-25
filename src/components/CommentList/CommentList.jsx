@@ -1,4 +1,4 @@
-import { CommentInfo } from "../CommentInfo/CommentInfo";
+import { CommentInfo } from '../CommentInfo/CommentInfo';
 
 export const CommentList = ({ comments }) => {
   return comments && comments.length > 0 ? (
